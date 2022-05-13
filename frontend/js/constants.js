@@ -1,7 +1,7 @@
 const contractAddress = "0x19C5911c0A736bEe1d10691d25622e7C5952dfF7"; //Replace with your own contract address
 const chain = "rinkeby"; // rinkeby or polygon
 
-const welcome_h1 = "THE META HUSTLERS HAVE ARRIVED";
+const welcome_h1 = "THE METAHUSTLERS HAVE ARRIVED";
 const welcome_h2 = "Connect to MetaMask";
 const welcome_p = "Let Get Motiversed";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
