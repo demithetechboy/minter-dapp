@@ -24,7 +24,13 @@
 }
 
 body {
-  background-color: var(--bg-color);
+  background-color: linear-gradient(
+    to right,
+    #fda766 0%,
+    #fda766 50%,
+    #ff4433 50%,
+    #ff4433 100%
+  );
   display: flex;
   flex-flow: column;
   height: 100vh;
