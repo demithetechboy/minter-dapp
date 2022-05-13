@@ -1,10 +1,10 @@
 const contractAddress = "0x19C5911c0A736bEe1d10691d25622e7C5952dfF7"; //Replace with your own contract address
 const chain = "rinkeby"; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Meta Hustle NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p =
-  'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+  "From The Dawn of Ethereum Creation A Formidable Race Of 5499 Meta Hustlers Existed In The Deepest Shadows In The Depths Of The Motiverse. Carefully and Fiercely Created With Two Core Objectives Embedded Into Their Etheric Code.They Hustle.THEN THEY HUSTLE HARDER.";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
