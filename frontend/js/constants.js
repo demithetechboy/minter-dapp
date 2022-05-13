@@ -3,8 +3,7 @@ const chain = "rinkeby"; // rinkeby or polygon
 
 const welcome_h1 = "Meta Hustle NFT";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p =
-  "From The Dawn of Ethereum Creation A Formidable Race Of 5499 Meta Hustlers Existed In The Deepest Shadows In The Depths Of The Motiverse. Carefully and Fiercely Created With Two Core Objectives Embedded Into Their Etheric Code.They Hustle.THEN THEY HUSTLE HARDER.";
+const welcome_p = "Meta Hustle NFT Project is Live!! Mint Now.";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
