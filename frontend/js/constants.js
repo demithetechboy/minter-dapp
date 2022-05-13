@@ -3,7 +3,7 @@ const chain = "rinkeby"; // rinkeby or polygon
 
 const welcome_h1 = "THE METAHUSTLERS HAVE ARRIVED";
 const welcome_h2 = "Connect to MetaMask";
-const welcome_p = "Let Get Motiversed.";
+const welcome_p = "Let Get Motiversed";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
