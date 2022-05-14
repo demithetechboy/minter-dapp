@@ -316,6 +316,10 @@ section {
   margin: 1rem 0;
 }
 
+.arrow {
+  position: relative;
+}
+
 /* SLIDDER */
 
 .splide {
