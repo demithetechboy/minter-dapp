@@ -359,6 +359,7 @@ section {
 
   .arrow {
     right: 3rem;
+    display: flex;
   }
 
   .wallet-btn {
