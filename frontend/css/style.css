@@ -358,7 +358,7 @@ section {
   }
 
   .arrow {
-    right: 1rem;
+    right: 10px;
     display: flex;
   }
 
