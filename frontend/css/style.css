@@ -319,7 +319,8 @@ section {
 .arrow {
   position: absolute;
   top: 100px;
-  right: 500px;
+  right: 5rem;
+  z-index: -1;
 }
 
 /* SLIDDER */
