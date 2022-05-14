@@ -359,7 +359,9 @@ section {
 
   .arrow {
     right: 0px;
-    display: flex;
+    height: 180px;
+    width: 90;
+    flex-direction: column-reverse;
   }
 
   .wallet-btn {
