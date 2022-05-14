@@ -357,6 +357,10 @@ section {
     gap: 1rem;
   }
 
+  .arrow {
+    right: 5rem;
+  }
+
   .wallet-btn {
     margin-left: 0;
     padding: 0.5rem 1rem;
