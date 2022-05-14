@@ -316,12 +316,15 @@ section {
   margin: 1rem 0;
 }
 
-.arrow {
+/* ARROW */
+/*
+ .arrow {
   position: absolute;
   top: 100px;
   right: 5rem;
   z-index: -1;
-}
+  
+} */
 
 /* SLIDDER */
 
