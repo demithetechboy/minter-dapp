@@ -317,14 +317,13 @@ section {
 }
 
 /* ARROW */
-/*
- .arrow {
+
+.arrow {
   position: absolute;
   top: 100px;
   right: 5rem;
   z-index: -1;
-  
-} */
+}
 
 /* SLIDDER */
 
@@ -332,7 +331,6 @@ section {
   position: absolute;
   top: 90px;
   left: 5rem;
-  z-index: -1;
 }
 
 .splide__slide {
@@ -358,6 +356,7 @@ section {
   .menu {
     gap: 1rem;
   }
+
   .wallet-btn {
     margin-left: 0;
     padding: 0.5rem 1rem;
