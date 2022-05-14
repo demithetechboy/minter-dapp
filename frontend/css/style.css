@@ -321,8 +321,7 @@ section {
 .arrow {
   position: absolute;
   top: 100px;
-  right: 5rem;
-  z-index: -1;
+  right: 500px;
 }
 
 /* SLIDDER */
@@ -330,7 +329,8 @@ section {
 .splide {
   position: absolute;
   top: 90px;
-  left: 500px;
+  left: 5rem;
+  z-index: -1;
 }
 
 .splide__slide {
