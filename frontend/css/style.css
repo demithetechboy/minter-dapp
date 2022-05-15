@@ -333,7 +333,13 @@ section {
 .l2 {
   position: absolute;
   bottom: 0px;
-  left: 300px;
+  left: 200px;
+}
+
+.l3 {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
 }
 
 /* SLIDDER */
