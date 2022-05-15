@@ -359,8 +359,8 @@ section {
 
   .arrow {
     right: -50px;
-    height: 180px;
-    width: 90;
+    height: 140px;
+    width: 70;
     flex-direction: column-reverse;
   }
 
