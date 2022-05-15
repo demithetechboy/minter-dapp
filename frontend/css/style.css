@@ -326,8 +326,14 @@ section {
 
 .l1 {
   position: absolute;
-  bottom: 10px;
+  bottom: 0px;
   left: 400px;
+}
+
+.l2 {
+  position: absolute;
+  bottom: 0px;
+  left: 300px;
 }
 
 /* SLIDDER */
