@@ -361,7 +361,7 @@ section {
     right: -50px;
     height: 140px;
     width: 70;
-    flex-direction: column-reverse;
+    display: flex;
   }
 
   .wallet-btn {
