@@ -358,7 +358,7 @@ section {
   }
 
   .arrow {
-    right: -50px;
+    right: 0px;
     height: 140px;
     width: 70;
     display: flex;
