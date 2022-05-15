@@ -388,6 +388,34 @@ section {
     display: flex;
   }
 
+  .l1 {
+    left: 100px;
+    height: 70px;
+    width: 25;
+    display: flex;
+  }
+
+  .l2 {
+    left: 50px;
+    height: 90px;
+    width: 40;
+    display: flex;
+  }
+
+  .l3 {
+    left: 0px;
+    height: 110px;
+    width: 55;
+    display: flex;
+  }
+
+  .l2 {
+    right: 0px;
+    height: 120px;
+    width: 60;
+    display: flex;
+  }
+
   .wallet-btn {
     margin-left: 0;
     padding: 0.5rem 1rem;
