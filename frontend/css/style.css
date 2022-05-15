@@ -324,6 +324,12 @@ section {
   right: 400px;
 }
 
+.l1 {
+  position: relative;
+  top: 100px;
+  right: 400px;
+}
+
 /* SLIDDER */
 
 .splide {
