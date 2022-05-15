@@ -342,6 +342,12 @@ section {
   left: 0px;
 }
 
+.l4 {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
 /* SLIDDER */
 
 .splide {
