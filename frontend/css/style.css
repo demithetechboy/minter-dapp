@@ -325,7 +325,7 @@ section {
 }
 
 .l1 {
-  position: relative;
+  position: absolute;
   /*top: 100px;
   right: 400px;*/
 }
