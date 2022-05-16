@@ -386,7 +386,11 @@ section {
     height: 110px;
     width: 55;
     display: flex;
-    z-index: -1;
+  }
+  .now1 {
+    right: 40px;
+
+    display: flex;
   }
 
   .l1 {
