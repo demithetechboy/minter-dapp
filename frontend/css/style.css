@@ -334,7 +334,7 @@ section {
   position: absolute;
   top: 150px;
   left: 750px;
-  transform: rotateX(100deg);
+  transform: rotateY(-30deg);
 }
 
 .l1 {
