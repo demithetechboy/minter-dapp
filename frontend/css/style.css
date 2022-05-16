@@ -386,6 +386,7 @@ section {
     height: 110px;
     width: 55;
     display: flex;
+    z-index: -1;
   }
 
   .l1 {
@@ -393,6 +394,7 @@ section {
     height: 70px;
     width: 25;
     display: flex;
+    z-index: -1;
   }
 
   .l2 {
@@ -400,6 +402,7 @@ section {
     height: 90px;
     width: 40;
     display: flex;
+    z-index: -1;
   }
 
   .l3 {
@@ -407,6 +410,7 @@ section {
     height: 110px;
     width: 55;
     display: flex;
+    z-index: -1;
   }
 
   .l4 {
@@ -414,6 +418,7 @@ section {
     height: 180px;
     width: 120;
     display: flex;
+    z-index: -1;
   }
 
   .wallet-btn {
