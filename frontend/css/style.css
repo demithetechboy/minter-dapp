@@ -334,7 +334,8 @@ section {
   position: absolute;
   top: 150px;
   left: 750px;
-  rotate: 100;
+  rotate: 100deg;
+}
 
 .l1 {
   position: absolute;
