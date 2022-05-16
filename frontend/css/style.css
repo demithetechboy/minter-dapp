@@ -394,7 +394,9 @@ section {
     display: flex;
   }
   .now1 {
-    left: 50px;
+    left: 10px;
+    width: 20;
+    height: 50;
     display: flex;
   }
 
