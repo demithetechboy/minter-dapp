@@ -325,7 +325,8 @@ section {
 }
 
 .mh3 {
-  position: center;
+  position: absolute;
+  align-items: center;
 }
 
 .now1 {
