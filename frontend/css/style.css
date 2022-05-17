@@ -330,6 +330,12 @@ section {
   left: 750px;
 }
 
+.hf {
+  position: absolute;
+  top: 400px;
+  left: 750px;
+}
+
 .now1 {
   position: absolute;
   top: 100px;
