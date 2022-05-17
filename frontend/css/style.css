@@ -420,21 +420,21 @@ section {
   }
 
   .mh3 {
-    left: 20px;
-    height: 20px;
+    left: 80px;
+    height: 30px;
     width: 80;
     display: flex;
   }
 
   .hf {
-    left: 20px;
-    height: 30px;
+    left: 80px;
+    height: 40px;
     width: 60;
     display: flex;
   }
 
   .ar {
-    left: 20px;
+    left: 80px;
     height: 50px;
     width: 60;
     display: flex;
