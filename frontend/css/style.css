@@ -11,7 +11,7 @@
   --font-secondary: "Maximum Impact", serif;
   --font-code: "Maximum Impact", monospace;
   --bg-color: #fda766;
-  --bg-color-transparent: #fd954680;
+  --bg-color-transparent: #fd95462c;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #ff4433;
@@ -328,18 +328,21 @@ section {
   position: absolute;
   top: 300px;
   left: 750px;
+  z-index: -1;
 }
 
 .hf {
   position: absolute;
   top: 350px;
   left: 750px;
+  z-index: -1;
 }
 
 .ar {
   position: absolute;
   top: 400px;
   left: 750px;
+  z-index: -1;
 }
 
 .now1 {
