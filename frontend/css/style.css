@@ -332,6 +332,12 @@ section {
 
 .hf {
   position: absolute;
+  top: 350px;
+  left: 750px;
+}
+
+.ar {
+  position: absolute;
   top: 400px;
   left: 750px;
 }
